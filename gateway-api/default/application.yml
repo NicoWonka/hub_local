@@ -45,7 +45,7 @@ security:
     enabled: false
   user:
     name: zuul
-    password: a39WqtRWAaXhckj
+    password: web-local
     role: ADMIN
 
 logging:  
