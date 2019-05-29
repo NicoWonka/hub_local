@@ -9,7 +9,7 @@ security:
     enabled: false
   user:
     name: turbine
-    password: CYVTJdEtAcCxyJe
+    password: web-local
     role: ADMIN
   
 logging:  
