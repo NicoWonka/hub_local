@@ -12,7 +12,7 @@ security:
     enabled: true
   user:
     name: hystrix
-    password: 2tanhY4x9jNbBKQ
+    password: web-local
     role: ADMIN
     
 logging:  
