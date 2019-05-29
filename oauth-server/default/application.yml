@@ -3,7 +3,7 @@ security:
     enabled: false
   user:
     name: oauth
-    password: tvmpGBG7kX2WYJM
+    password: web-local
     role: ADMIN
     
 logging:  
