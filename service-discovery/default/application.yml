@@ -17,7 +17,7 @@ security:
     enabled: true
   user:
     name: eureka
-    password: khTUcUUQ33WkJGC
+    password: web-local
     role: ADMIN
     
 logging:  
